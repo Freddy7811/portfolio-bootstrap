@@ -1,0 +1,17 @@
+.jumbotron {
+	padding-top: 2rem;
+	background-color:  #a2d9ff;
+	text-align: center;
+}
+
+#project {
+	background-color: #a2d9ff;
+}
+
+section {
+	padding-top: 5rem;
+}
+
+.card {
+	text-align: center;
+}
